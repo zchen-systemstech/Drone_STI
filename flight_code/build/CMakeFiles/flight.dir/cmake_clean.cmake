@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/flight.dir/autocode/ground_test_EMF_ert_rtw/autocode.cpp.obj"
-  "CMakeFiles/flight.dir/autocode/ground_test_EMF_ert_rtw/autocode.cpp.obj.d"
+  "CMakeFiles/flight.dir/autocode/ground_test_EMF_new_ert_rtw/autocode.cpp.obj"
+  "CMakeFiles/flight.dir/autocode/ground_test_EMF_new_ert_rtw/autocode.cpp.obj.d"
   "CMakeFiles/flight.dir/drivers/analog.cc.obj"
   "CMakeFiles/flight.dir/drivers/analog.cc.obj.d"
   "CMakeFiles/flight.dir/drivers/fmu.cc.obj"

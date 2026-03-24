@@ -1,14 +1,14 @@
 # Target labels
  mcu_support-populate
 # Source files and their labels
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/CMakeFiles/mcu_support-populate
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/CMakeFiles/mcu_support-populate.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/CMakeFiles/mcu_support-populate-complete.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-build.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-configure.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-download.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-install.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-mkdir.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-patch.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-test.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-update.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mcu_support-subbuild/CMakeFiles/mcu_support-populate
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mcu_support-subbuild/CMakeFiles/mcu_support-populate.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mcu_support-subbuild/CMakeFiles/mcu_support-populate-complete.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-build.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-configure.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-download.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-install.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-mkdir.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-patch.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-test.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-update.rule

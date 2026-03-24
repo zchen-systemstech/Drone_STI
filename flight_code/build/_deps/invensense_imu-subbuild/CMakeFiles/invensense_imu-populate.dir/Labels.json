@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/CMakeFiles/invensense_imu-populate"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/CMakeFiles/invensense_imu-populate"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/CMakeFiles/invensense_imu-populate.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/CMakeFiles/invensense_imu-populate.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/CMakeFiles/invensense_imu-populate-complete.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/CMakeFiles/invensense_imu-populate-complete.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-build.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-build.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-configure.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-configure.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-download.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-download.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-install.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-install.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-mkdir.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-mkdir.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-patch.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-patch.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-test.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-test.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-update.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-update.rule"
 		}
 	],
 	"target" : 

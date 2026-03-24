@@ -1,14 +1,14 @@
 # Target labels
  bme280-populate
 # Source files and their labels
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-subbuild/CMakeFiles/bme280-populate
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-subbuild/CMakeFiles/bme280-populate.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-subbuild/CMakeFiles/bme280-populate-complete.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-build.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-configure.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-download.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-install.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-mkdir.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-patch.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-test.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-update.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-subbuild/CMakeFiles/bme280-populate
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-subbuild/CMakeFiles/bme280-populate.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-subbuild/CMakeFiles/bme280-populate-complete.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-build.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-configure.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-download.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-install.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-mkdir.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-patch.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-test.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-subbuild/bme280-populate-prefix/src/bme280-populate-stamp/bme280-populate-update.rule

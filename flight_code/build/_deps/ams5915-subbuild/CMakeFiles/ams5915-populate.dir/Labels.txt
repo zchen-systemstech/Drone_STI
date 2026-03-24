@@ -1,14 +1,14 @@
 # Target labels
  ams5915-populate
 # Source files and their labels
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-subbuild/CMakeFiles/ams5915-populate
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-subbuild/CMakeFiles/ams5915-populate.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-subbuild/CMakeFiles/ams5915-populate-complete.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-build.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-configure.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-download.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-install.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-mkdir.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-patch.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-test.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-update.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-subbuild/CMakeFiles/ams5915-populate
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-subbuild/CMakeFiles/ams5915-populate.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-subbuild/CMakeFiles/ams5915-populate-complete.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-build.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-configure.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-download.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-install.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-mkdir.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-patch.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-test.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-subbuild/ams5915-populate-prefix/src/ams5915-populate-stamp/ams5915-populate-update.rule

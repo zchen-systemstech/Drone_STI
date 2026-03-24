@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/CMakeFiles/vector_nav-populate"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/CMakeFiles/vector_nav-populate"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/CMakeFiles/vector_nav-populate.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/CMakeFiles/vector_nav-populate.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/CMakeFiles/vector_nav-populate-complete.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/CMakeFiles/vector_nav-populate-complete.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-build.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-build.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-configure.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-configure.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-download.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-download.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-install.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-install.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-mkdir.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-mkdir.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-patch.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-patch.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-test.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-test.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-update.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-update.rule"
 		}
 	],
 	"target" : 

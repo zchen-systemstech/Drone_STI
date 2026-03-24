@@ -8,14 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-src/src/vn100.cpp" "_deps/vector_nav-build/CMakeFiles/vector_nav.dir/src/vn100.cpp.obj" "gcc" "_deps/vector_nav-build/CMakeFiles/vector_nav.dir/src/vn100.cpp.obj.d"
-  "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-src/src/vn200.cpp" "_deps/vector_nav-build/CMakeFiles/vector_nav.dir/src/vn200.cpp.obj" "gcc" "_deps/vector_nav-build/CMakeFiles/vector_nav.dir/src/vn200.cpp.obj.d"
-  "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-src/src/vn300.cpp" "_deps/vector_nav-build/CMakeFiles/vector_nav.dir/src/vn300.cpp.obj" "gcc" "_deps/vector_nav-build/CMakeFiles/vector_nav.dir/src/vn300.cpp.obj.d"
+  "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-src/src/vn100.cpp" "_deps/vector_nav-build/CMakeFiles/vector_nav.dir/src/vn100.cpp.obj" "gcc" "_deps/vector_nav-build/CMakeFiles/vector_nav.dir/src/vn100.cpp.obj.d"
+  "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-src/src/vn200.cpp" "_deps/vector_nav-build/CMakeFiles/vector_nav.dir/src/vn200.cpp.obj" "gcc" "_deps/vector_nav-build/CMakeFiles/vector_nav.dir/src/vn200.cpp.obj.d"
+  "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-src/src/vn300.cpp" "_deps/vector_nav-build/CMakeFiles/vector_nav.dir/src/vn300.cpp.obj" "gcc" "_deps/vector_nav-build/CMakeFiles/vector_nav.dir/src/vn300.cpp.obj.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-build/CMakeFiles/core.dir/DependInfo.cmake"
+  "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-build/CMakeFiles/core.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

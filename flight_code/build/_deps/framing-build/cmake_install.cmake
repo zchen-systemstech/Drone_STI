@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/framing-src
+# Install script for directory: /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/framing-src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/checksum-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/checksum-build/cmake_install.cmake")
 endif()
 

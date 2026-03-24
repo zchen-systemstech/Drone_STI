@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/matek3901-src/src/matek3901.cpp" "_deps/matek3901-build/CMakeFiles/matek3901.dir/src/matek3901.cpp.obj" "gcc" "_deps/matek3901-build/CMakeFiles/matek3901.dir/src/matek3901.cpp.obj.d"
+  "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/matek3901-src/src/matek3901.cpp" "_deps/matek3901-build/CMakeFiles/matek3901.dir/src/matek3901.cpp.obj" "gcc" "_deps/matek3901-build/CMakeFiles/matek3901.dir/src/matek3901.cpp.obj.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-build/CMakeFiles/core.dir/DependInfo.cmake"
+  "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-build/CMakeFiles/core.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

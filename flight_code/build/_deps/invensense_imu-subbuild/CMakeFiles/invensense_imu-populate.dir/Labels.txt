@@ -1,14 +1,14 @@
 # Target labels
  invensense_imu-populate
 # Source files and their labels
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/CMakeFiles/invensense_imu-populate
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/CMakeFiles/invensense_imu-populate.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/CMakeFiles/invensense_imu-populate-complete.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-build.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-configure.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-download.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-install.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-mkdir.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-patch.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-test.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-update.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/CMakeFiles/invensense_imu-populate
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/CMakeFiles/invensense_imu-populate.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/CMakeFiles/invensense_imu-populate-complete.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-build.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-configure.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-download.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-install.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-mkdir.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-patch.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-test.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-subbuild/invensense_imu-populate-prefix/src/invensense_imu-populate-stamp/invensense_imu-populate-update.rule

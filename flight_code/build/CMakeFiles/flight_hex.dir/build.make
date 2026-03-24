@@ -53,10 +53,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code
+CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build
+CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build
 
 # Utility rule file for flight_hex.
 
@@ -69,7 +69,7 @@ include CMakeFiles/flight_hex.dir/progress.make
 CMakeFiles/flight_hex: flight.hex
 
 flight.hex: flight
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating flight.hex"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating flight.hex"
 	arm-none-eabi-size flight
 	arm-none-eabi-objcopy -O ihex -R .eeprom flight flight.hex
 
@@ -87,6 +87,6 @@ CMakeFiles/flight_hex.dir/clean:
 .PHONY : CMakeFiles/flight_hex.dir/clean
 
 CMakeFiles/flight_hex.dir/depend:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles/flight_hex.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/Drone_STI/flight_code /mnt/c/users/zchen/Projects/Drone_STI/flight_code /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles/flight_hex.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/flight_hex.dir/depend
 

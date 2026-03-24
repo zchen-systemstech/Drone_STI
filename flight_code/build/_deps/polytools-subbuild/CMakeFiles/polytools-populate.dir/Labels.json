@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/polytools-subbuild/CMakeFiles/polytools-populate"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/polytools-subbuild/CMakeFiles/polytools-populate"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/polytools-subbuild/CMakeFiles/polytools-populate.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/polytools-subbuild/CMakeFiles/polytools-populate.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/polytools-subbuild/CMakeFiles/polytools-populate-complete.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/polytools-subbuild/CMakeFiles/polytools-populate-complete.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-build.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-build.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-configure.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-configure.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-download.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-download.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-install.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-install.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-mkdir.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-mkdir.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-patch.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-patch.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-test.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-test.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-update.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/polytools-subbuild/polytools-populate-prefix/src/polytools-populate-stamp/polytools-populate-update.rule"
 		}
 	],
 	"target" : 

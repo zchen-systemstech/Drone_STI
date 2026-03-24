@@ -1,14 +1,14 @@
 # Target labels
  ainstein_usd1-populate
 # Source files and their labels
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/CMakeFiles/ainstein_usd1-populate
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/CMakeFiles/ainstein_usd1-populate.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/CMakeFiles/ainstein_usd1-populate-complete.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-build.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-configure.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-download.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-install.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-mkdir.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-patch.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-test.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-update.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/CMakeFiles/ainstein_usd1-populate
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/CMakeFiles/ainstein_usd1-populate.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/CMakeFiles/ainstein_usd1-populate-complete.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-build.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-configure.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-download.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-install.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-mkdir.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-patch.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-test.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-update.rule

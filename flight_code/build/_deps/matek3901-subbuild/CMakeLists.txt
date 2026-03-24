@@ -21,8 +21,8 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 include(ExternalProject)
 ExternalProject_Add(matek3901-populate
                      "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/TL-4319/matek3901" "GIT_TAG" "v1.1.0"
-                    SOURCE_DIR          "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/matek3901-src"
-                    BINARY_DIR          "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/matek3901-build"
+                    SOURCE_DIR          "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/matek3901-src"
+                    BINARY_DIR          "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/matek3901-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

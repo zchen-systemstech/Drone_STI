@@ -21,8 +21,8 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 include(ExternalProject)
 ExternalProject_Add(bme280-populate
                      "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/bolderflight/bme280.git" "GIT_TAG" "v5.2.6"
-                    SOURCE_DIR          "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-src"
-                    BINARY_DIR          "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-build"
+                    SOURCE_DIR          "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-src"
+                    BINARY_DIR          "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

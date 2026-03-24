@@ -1,14 +1,14 @@
 # Target labels
  vector_nav-populate
 # Source files and their labels
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/CMakeFiles/vector_nav-populate
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/CMakeFiles/vector_nav-populate.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/CMakeFiles/vector_nav-populate-complete.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-build.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-configure.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-download.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-install.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-mkdir.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-patch.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-test.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-update.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/CMakeFiles/vector_nav-populate
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/CMakeFiles/vector_nav-populate.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/CMakeFiles/vector_nav-populate-complete.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-build.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-configure.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-download.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-install.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-mkdir.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-patch.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-test.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-subbuild/vector_nav-populate-prefix/src/vector_nav-populate-stamp/vector_nav-populate-update.rule

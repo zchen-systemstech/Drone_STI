@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/CMakeFiles/pwm-populate"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/CMakeFiles/pwm-populate"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/CMakeFiles/pwm-populate.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/CMakeFiles/pwm-populate.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/CMakeFiles/pwm-populate-complete.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/CMakeFiles/pwm-populate-complete.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-build.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-build.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-configure.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-configure.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-download.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-download.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-install.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-install.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-mkdir.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-mkdir.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-patch.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-patch.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-test.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-test.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-update.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-update.rule"
 		}
 	],
 	"target" : 

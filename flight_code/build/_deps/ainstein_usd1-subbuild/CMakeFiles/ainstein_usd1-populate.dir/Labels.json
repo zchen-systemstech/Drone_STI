@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/CMakeFiles/ainstein_usd1-populate"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/CMakeFiles/ainstein_usd1-populate"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/CMakeFiles/ainstein_usd1-populate.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/CMakeFiles/ainstein_usd1-populate.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/CMakeFiles/ainstein_usd1-populate-complete.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/CMakeFiles/ainstein_usd1-populate-complete.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-build.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-build.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-configure.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-configure.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-download.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-download.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-install.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-install.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-mkdir.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-mkdir.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-patch.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-patch.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-test.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-test.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-update.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-subbuild/ainstein_usd1-populate-prefix/src/ainstein_usd1-populate-stamp/ainstein_usd1-populate-update.rule"
 		}
 	],
 	"target" : 

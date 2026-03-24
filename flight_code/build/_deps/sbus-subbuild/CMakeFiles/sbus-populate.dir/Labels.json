@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/CMakeFiles/sbus-populate"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/CMakeFiles/sbus-populate"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/CMakeFiles/sbus-populate.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/CMakeFiles/sbus-populate.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/CMakeFiles/sbus-populate-complete.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/CMakeFiles/sbus-populate-complete.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-build.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-build.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-configure.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-configure.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-download.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-download.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-install.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-install.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-mkdir.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-mkdir.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-patch.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-patch.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-test.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-test.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-update.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-update.rule"
 		}
 	],
 	"target" : 

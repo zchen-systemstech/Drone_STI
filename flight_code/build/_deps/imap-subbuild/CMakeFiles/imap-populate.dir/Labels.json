@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/imap-subbuild/CMakeFiles/imap-populate"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/imap-subbuild/CMakeFiles/imap-populate"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/imap-subbuild/CMakeFiles/imap-populate.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/imap-subbuild/CMakeFiles/imap-populate.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/imap-subbuild/CMakeFiles/imap-populate-complete.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/imap-subbuild/CMakeFiles/imap-populate-complete.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-build.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-build.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-configure.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-configure.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-download.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-download.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-install.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-install.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-mkdir.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-mkdir.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-patch.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-patch.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-test.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-test.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-update.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/imap-subbuild/imap-populate-prefix/src/imap-populate-stamp/imap-populate-update.rule"
 		}
 	],
 	"target" : 

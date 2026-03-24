@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles/navigation-populate"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles/navigation-populate"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles/navigation-populate.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles/navigation-populate.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles/navigation-populate-complete.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles/navigation-populate-complete.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-build.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-build.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-configure.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-configure.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-download.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-download.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-install.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-install.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-mkdir.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-mkdir.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-patch.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-patch.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-test.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-test.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-update.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-update.rule"
 		}
 	],
 	"target" : 

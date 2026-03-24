@@ -1,14 +1,14 @@
 # Target labels
  ubx-populate
 # Source files and their labels
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/CMakeFiles/ubx-populate
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/CMakeFiles/ubx-populate.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/CMakeFiles/ubx-populate-complete.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-build.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-configure.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-download.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-install.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-mkdir.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-patch.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-test.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-update.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ubx-subbuild/CMakeFiles/ubx-populate
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ubx-subbuild/CMakeFiles/ubx-populate.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ubx-subbuild/CMakeFiles/ubx-populate-complete.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-build.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-configure.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-download.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-install.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-mkdir.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-patch.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-test.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-update.rule

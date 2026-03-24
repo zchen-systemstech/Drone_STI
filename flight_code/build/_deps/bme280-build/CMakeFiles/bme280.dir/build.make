@@ -53,10 +53,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code
+CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build
+CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build
 
 # Include any dependencies generated for this target.
 include _deps/bme280-build/CMakeFiles/bme280.dir/depend.make
@@ -72,30 +72,30 @@ include _deps/bme280-build/CMakeFiles/bme280.dir/flags.make
 _deps/bme280-build/CMakeFiles/bme280.dir/src/bme280.cpp.obj: _deps/bme280-build/CMakeFiles/bme280.dir/flags.make
 _deps/bme280-build/CMakeFiles/bme280.dir/src/bme280.cpp.obj: _deps/bme280-src/src/bme280.cpp
 _deps/bme280-build/CMakeFiles/bme280.dir/src/bme280.cpp.obj: _deps/bme280-build/CMakeFiles/bme280.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/bme280-build/CMakeFiles/bme280.dir/src/bme280.cpp.obj"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/bme280-build/CMakeFiles/bme280.dir/src/bme280.cpp.obj -MF CMakeFiles/bme280.dir/src/bme280.cpp.obj.d -o CMakeFiles/bme280.dir/src/bme280.cpp.obj -c /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-src/src/bme280.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/bme280-build/CMakeFiles/bme280.dir/src/bme280.cpp.obj"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/bme280-build/CMakeFiles/bme280.dir/src/bme280.cpp.obj -MF CMakeFiles/bme280.dir/src/bme280.cpp.obj.d -o CMakeFiles/bme280.dir/src/bme280.cpp.obj -c /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-src/src/bme280.cpp
 
 _deps/bme280-build/CMakeFiles/bme280.dir/src/bme280.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/bme280.dir/src/bme280.cpp.i"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-src/src/bme280.cpp > CMakeFiles/bme280.dir/src/bme280.cpp.i
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-src/src/bme280.cpp > CMakeFiles/bme280.dir/src/bme280.cpp.i
 
 _deps/bme280-build/CMakeFiles/bme280.dir/src/bme280.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/bme280.dir/src/bme280.cpp.s"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-src/src/bme280.cpp -o CMakeFiles/bme280.dir/src/bme280.cpp.s
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-src/src/bme280.cpp -o CMakeFiles/bme280.dir/src/bme280.cpp.s
 
 _deps/bme280-build/CMakeFiles/bme280.dir/src/bst/bme280.c.obj: _deps/bme280-build/CMakeFiles/bme280.dir/flags.make
 _deps/bme280-build/CMakeFiles/bme280.dir/src/bst/bme280.c.obj: _deps/bme280-src/src/bst/bme280.c
 _deps/bme280-build/CMakeFiles/bme280.dir/src/bst/bme280.c.obj: _deps/bme280-build/CMakeFiles/bme280.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object _deps/bme280-build/CMakeFiles/bme280.dir/src/bst/bme280.c.obj"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-build && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/bme280-build/CMakeFiles/bme280.dir/src/bst/bme280.c.obj -MF CMakeFiles/bme280.dir/src/bst/bme280.c.obj.d -o CMakeFiles/bme280.dir/src/bst/bme280.c.obj -c /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-src/src/bst/bme280.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object _deps/bme280-build/CMakeFiles/bme280.dir/src/bst/bme280.c.obj"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-build && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/bme280-build/CMakeFiles/bme280.dir/src/bst/bme280.c.obj -MF CMakeFiles/bme280.dir/src/bst/bme280.c.obj.d -o CMakeFiles/bme280.dir/src/bst/bme280.c.obj -c /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-src/src/bst/bme280.c
 
 _deps/bme280-build/CMakeFiles/bme280.dir/src/bst/bme280.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/bme280.dir/src/bst/bme280.c.i"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-build && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-src/src/bst/bme280.c > CMakeFiles/bme280.dir/src/bst/bme280.c.i
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-build && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-src/src/bst/bme280.c > CMakeFiles/bme280.dir/src/bst/bme280.c.i
 
 _deps/bme280-build/CMakeFiles/bme280.dir/src/bst/bme280.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/bme280.dir/src/bst/bme280.c.s"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-build && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-src/src/bst/bme280.c -o CMakeFiles/bme280.dir/src/bst/bme280.c.s
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-build && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-src/src/bst/bme280.c -o CMakeFiles/bme280.dir/src/bst/bme280.c.s
 
 # Object files for target bme280
 bme280_OBJECTS = \
@@ -109,19 +109,19 @@ _deps/bme280-build/libbme280.a: _deps/bme280-build/CMakeFiles/bme280.dir/src/bme
 _deps/bme280-build/libbme280.a: _deps/bme280-build/CMakeFiles/bme280.dir/src/bst/bme280.c.obj
 _deps/bme280-build/libbme280.a: _deps/bme280-build/CMakeFiles/bme280.dir/build.make
 _deps/bme280-build/libbme280.a: _deps/bme280-build/CMakeFiles/bme280.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libbme280.a"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-build && $(CMAKE_COMMAND) -P CMakeFiles/bme280.dir/cmake_clean_target.cmake
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-build && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/bme280.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libbme280.a"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-build && $(CMAKE_COMMAND) -P CMakeFiles/bme280.dir/cmake_clean_target.cmake
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-build && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/bme280.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 _deps/bme280-build/CMakeFiles/bme280.dir/build: _deps/bme280-build/libbme280.a
 .PHONY : _deps/bme280-build/CMakeFiles/bme280.dir/build
 
 _deps/bme280-build/CMakeFiles/bme280.dir/clean:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-build && $(CMAKE_COMMAND) -P CMakeFiles/bme280.dir/cmake_clean.cmake
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-build && $(CMAKE_COMMAND) -P CMakeFiles/bme280.dir/cmake_clean.cmake
 .PHONY : _deps/bme280-build/CMakeFiles/bme280.dir/clean
 
 _deps/bme280-build/CMakeFiles/bme280.dir/depend:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-src /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-build /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-build/CMakeFiles/bme280.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/Drone_STI/flight_code /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-src /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-build /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-build/CMakeFiles/bme280.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : _deps/bme280-build/CMakeFiles/bme280.dir/depend
 

@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/CMakeFiles/logger-populate"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/logger-subbuild/CMakeFiles/logger-populate"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/CMakeFiles/logger-populate.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/logger-subbuild/CMakeFiles/logger-populate.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/CMakeFiles/logger-populate-complete.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/logger-subbuild/CMakeFiles/logger-populate-complete.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-build.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-build.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-configure.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-configure.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-download.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-download.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-install.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-install.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-mkdir.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-mkdir.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-patch.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-patch.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-test.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-test.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-update.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-update.rule"
 		}
 	],
 	"target" : 

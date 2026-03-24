@@ -21,8 +21,8 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 include(ExternalProject)
 ExternalProject_Add(bmp3-populate
                      "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/bolderflight/bmp3.git" "GIT_TAG" "v1.1.6"
-                    SOURCE_DIR          "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-src"
-                    BINARY_DIR          "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-build"
+                    SOURCE_DIR          "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bmp3-src"
+                    BINARY_DIR          "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bmp3-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

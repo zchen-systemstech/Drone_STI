@@ -53,10 +53,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code
+CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build
+CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build
 
 # Include any dependencies generated for this target.
 include _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/depend.make
@@ -72,16 +72,16 @@ include _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/flags.make
 _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.obj: _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/flags.make
 _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.obj: _deps/lis3mdl-src/src/lis3mdl.cpp
 _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.obj: _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.obj"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.obj -MF CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.obj.d -o CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.obj -c /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-src/src/lis3mdl.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.obj"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.obj -MF CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.obj.d -o CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.obj -c /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-src/src/lis3mdl.cpp
 
 _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.i"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-src/src/lis3mdl.cpp > CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.i
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-src/src/lis3mdl.cpp > CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.i
 
 _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.s"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-src/src/lis3mdl.cpp -o CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.s
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-src/src/lis3mdl.cpp -o CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.s
 
 # Object files for target lis3mdl
 lis3mdl_OBJECTS = \
@@ -93,19 +93,19 @@ lis3mdl_EXTERNAL_OBJECTS =
 _deps/lis3mdl-build/liblis3mdl.a: _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/src/lis3mdl.cpp.obj
 _deps/lis3mdl-build/liblis3mdl.a: _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/build.make
 _deps/lis3mdl-build/liblis3mdl.a: _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library liblis3mdl.a"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build && $(CMAKE_COMMAND) -P CMakeFiles/lis3mdl.dir/cmake_clean_target.cmake
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lis3mdl.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library liblis3mdl.a"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build && $(CMAKE_COMMAND) -P CMakeFiles/lis3mdl.dir/cmake_clean_target.cmake
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lis3mdl.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/build: _deps/lis3mdl-build/liblis3mdl.a
 .PHONY : _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/build
 
 _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/clean:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build && $(CMAKE_COMMAND) -P CMakeFiles/lis3mdl.dir/cmake_clean.cmake
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build && $(CMAKE_COMMAND) -P CMakeFiles/lis3mdl.dir/cmake_clean.cmake
 .PHONY : _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/clean
 
 _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/depend:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-src /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/Drone_STI/flight_code /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-src /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : _deps/lis3mdl-build/CMakeFiles/lis3mdl.dir/depend
 

@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code
+# Install script for directory: /mnt/c/users/zchen/Projects/Drone_STI/flight_code
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,122 +39,122 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bme280-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bme280-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bmp3-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ubx-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ainstein_usd1-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ainstein_usd1-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/vector_nav-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/vector_nav-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/eigen-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/eigen-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/statistics-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/statistics-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/logger-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/framing-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/framing-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/airdata-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/control-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/control-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/excitation-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/excitation-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/polytools-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/polytools-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/filter-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/filter-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/imap-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/imap-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/matek3901-build/cmake_install.cmake")
+  include("/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/matek3901-build/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -165,5 +165,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

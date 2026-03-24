@@ -57,10 +57,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code
+CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build
+CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,14 +87,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/matek3901-build//CMakeFiles/progress.marks
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/matek3901-build/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles 0
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/matek3901-build//CMakeFiles/progress.marks
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/matek3901-build/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/matek3901-build/clean
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/matek3901-build/clean
 .PHONY : clean
 
 # The main clean target
@@ -103,22 +103,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/matek3901-build/preinstall
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/matek3901-build/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/matek3901-build/preinstall
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/matek3901-build/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 _deps/matek3901-build/CMakeFiles/matek3901.dir/rule:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/matek3901-build/CMakeFiles/matek3901.dir/rule
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/matek3901-build/CMakeFiles/matek3901.dir/rule
 .PHONY : _deps/matek3901-build/CMakeFiles/matek3901.dir/rule
 
 # Convenience name for target.
@@ -127,7 +127,7 @@ matek3901: _deps/matek3901-build/CMakeFiles/matek3901.dir/rule
 
 # fast build rule for target.
 matek3901/fast:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(MAKE) $(MAKESILENT) -f _deps/matek3901-build/CMakeFiles/matek3901.dir/build.make _deps/matek3901-build/CMakeFiles/matek3901.dir/build
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(MAKE) $(MAKESILENT) -f _deps/matek3901-build/CMakeFiles/matek3901.dir/build.make _deps/matek3901-build/CMakeFiles/matek3901.dir/build
 .PHONY : matek3901/fast
 
 src/matek3901.obj: src/matek3901.cpp.obj
@@ -135,7 +135,7 @@ src/matek3901.obj: src/matek3901.cpp.obj
 
 # target to build an object file
 src/matek3901.cpp.obj:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(MAKE) $(MAKESILENT) -f _deps/matek3901-build/CMakeFiles/matek3901.dir/build.make _deps/matek3901-build/CMakeFiles/matek3901.dir/src/matek3901.cpp.obj
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(MAKE) $(MAKESILENT) -f _deps/matek3901-build/CMakeFiles/matek3901.dir/build.make _deps/matek3901-build/CMakeFiles/matek3901.dir/src/matek3901.cpp.obj
 .PHONY : src/matek3901.cpp.obj
 
 src/matek3901.i: src/matek3901.cpp.i
@@ -143,7 +143,7 @@ src/matek3901.i: src/matek3901.cpp.i
 
 # target to preprocess a source file
 src/matek3901.cpp.i:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(MAKE) $(MAKESILENT) -f _deps/matek3901-build/CMakeFiles/matek3901.dir/build.make _deps/matek3901-build/CMakeFiles/matek3901.dir/src/matek3901.cpp.i
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(MAKE) $(MAKESILENT) -f _deps/matek3901-build/CMakeFiles/matek3901.dir/build.make _deps/matek3901-build/CMakeFiles/matek3901.dir/src/matek3901.cpp.i
 .PHONY : src/matek3901.cpp.i
 
 src/matek3901.s: src/matek3901.cpp.s
@@ -151,7 +151,7 @@ src/matek3901.s: src/matek3901.cpp.s
 
 # target to generate assembly for a file
 src/matek3901.cpp.s:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(MAKE) $(MAKESILENT) -f _deps/matek3901-build/CMakeFiles/matek3901.dir/build.make _deps/matek3901-build/CMakeFiles/matek3901.dir/src/matek3901.cpp.s
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(MAKE) $(MAKESILENT) -f _deps/matek3901-build/CMakeFiles/matek3901.dir/build.make _deps/matek3901-build/CMakeFiles/matek3901.dir/src/matek3901.cpp.s
 .PHONY : src/matek3901.cpp.s
 
 # Help Target
@@ -177,6 +177,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

@@ -21,8 +21,8 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 include(ExternalProject)
 ExternalProject_Add(navigation-populate
                      "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/TL-4319/navigation.git" "GIT_TAG" "f870deb4303e73fa4c32b54126e7402174ea668d"
-                    SOURCE_DIR          "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-src"
-                    BINARY_DIR          "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-build"
+                    SOURCE_DIR          "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-src"
+                    BINARY_DIR          "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

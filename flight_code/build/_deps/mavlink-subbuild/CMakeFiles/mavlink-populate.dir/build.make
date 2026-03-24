@@ -53,10 +53,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild
+CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild
+CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild
 
 # Utility rule file for mavlink-populate.
 
@@ -77,63 +77,63 @@ CMakeFiles/mavlink-populate-complete: mavlink-populate-prefix/src/mavlink-popula
 CMakeFiles/mavlink-populate-complete: mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-build
 CMakeFiles/mavlink-populate-complete: mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-install
 CMakeFiles/mavlink-populate-complete: mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-test
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'mavlink-populate'"
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles
-	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate-complete
-	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-done
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'mavlink-populate'"
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles
+	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate-complete
+	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-done
 
 mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-update:
 .PHONY : mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-update
 
 mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-build: mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-configure
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "No build step for 'mavlink-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E echo_append
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "No build step for 'mavlink-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E echo_append
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-build
 
 mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-configure: mavlink-populate-prefix/tmp/mavlink-populate-cfgcmd.txt
 mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-configure: mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-patch
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "No configure step for 'mavlink-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E echo_append
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-configure
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "No configure step for 'mavlink-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E echo_append
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-configure
 
 mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-download: mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-gitinfo.txt
 mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-download: mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-mkdir
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Performing download step (git clone) for 'mavlink-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps && /usr/local/bin/cmake -P /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/tmp/mavlink-populate-gitclone.cmake
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-download
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Performing download step (git clone) for 'mavlink-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps && /usr/local/bin/cmake -P /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/tmp/mavlink-populate-gitclone.cmake
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-download
 
 mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-install: mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "No install step for 'mavlink-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E echo_append
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-install
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "No install step for 'mavlink-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E echo_append
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-install
 
 mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-mkdir:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'mavlink-populate'"
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/tmp
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp
-	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-mkdir
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'mavlink-populate'"
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/tmp
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp
+	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-mkdir
 
 mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-patch: mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-update
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'mavlink-populate'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'mavlink-populate'"
 	/usr/local/bin/cmake -E echo_append
-	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-patch
+	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-patch
 
 mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-update:
 .PHONY : mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-update
 
 mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-test: mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-install
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "No test step for 'mavlink-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E echo_append
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-test
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "No test step for 'mavlink-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E echo_append
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-test
 
 mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-update: mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-download
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Performing update step for 'mavlink-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src && /usr/local/bin/cmake -P /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/tmp/mavlink-populate-gitupdate.cmake
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Performing update step for 'mavlink-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src && /usr/local/bin/cmake -P /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/tmp/mavlink-populate-gitupdate.cmake
 
 mavlink-populate: CMakeFiles/mavlink-populate
 mavlink-populate: CMakeFiles/mavlink-populate-complete
@@ -157,6 +157,6 @@ CMakeFiles/mavlink-populate.dir/clean:
 .PHONY : CMakeFiles/mavlink-populate.dir/clean
 
 CMakeFiles/mavlink-populate.dir/depend:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/mavlink-populate.dir/depend
 

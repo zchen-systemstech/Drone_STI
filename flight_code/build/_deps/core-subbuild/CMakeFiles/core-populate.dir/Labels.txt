@@ -1,14 +1,14 @@
 # Target labels
  core-populate
 # Source files and their labels
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/CMakeFiles/core-populate
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/CMakeFiles/core-populate.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/CMakeFiles/core-populate-complete.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-build.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-configure.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-download.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-install.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-mkdir.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-patch.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-test.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-update.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-subbuild/CMakeFiles/core-populate
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-subbuild/CMakeFiles/core-populate.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-subbuild/CMakeFiles/core-populate-complete.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-build.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-configure.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-download.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-install.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-mkdir.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-patch.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-test.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-update.rule

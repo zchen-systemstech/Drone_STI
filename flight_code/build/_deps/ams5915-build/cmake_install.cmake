@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-src
+# Install script for directory: /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

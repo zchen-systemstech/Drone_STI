@@ -21,8 +21,8 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 include(ExternalProject)
 ExternalProject_Add(core-populate
                      "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/bolderflight/core.git" "GIT_TAG" "v3.1.3"
-                    SOURCE_DIR          "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-src"
-                    BINARY_DIR          "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-build"
+                    SOURCE_DIR          "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-src"
+                    BINARY_DIR          "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

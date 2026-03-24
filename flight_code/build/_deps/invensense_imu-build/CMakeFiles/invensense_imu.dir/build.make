@@ -53,10 +53,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code
+CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build
+CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build
 
 # Include any dependencies generated for this target.
 include _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/depend.make
@@ -72,44 +72,44 @@ include _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/flags.make
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj: _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/flags.make
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj: _deps/invensense_imu-src/src/invensense_imu.cpp
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj: _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj -MF CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj.d -o CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj -c /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-src/src/invensense_imu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj -MF CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj.d -o CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj -c /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-src/src/invensense_imu.cpp
 
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.i"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-src/src/invensense_imu.cpp > CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.i
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-src/src/invensense_imu.cpp > CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.i
 
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.s"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-src/src/invensense_imu.cpp -o CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.s
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-src/src/invensense_imu.cpp -o CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.s
 
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj: _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/flags.make
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj: _deps/invensense_imu-src/src/mpu9250.cpp
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj: _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj -MF CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj.d -o CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj -c /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-src/src/mpu9250.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj -MF CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj.d -o CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj -c /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-src/src/mpu9250.cpp
 
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.i"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-src/src/mpu9250.cpp > CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.i
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-src/src/mpu9250.cpp > CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.i
 
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.s"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-src/src/mpu9250.cpp -o CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.s
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-src/src/mpu9250.cpp -o CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.s
 
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj: _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/flags.make
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj: _deps/invensense_imu-src/src/mpu6500.cpp
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj: _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj -MF CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj.d -o CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj -c /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-src/src/mpu6500.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj -MF CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj.d -o CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj -c /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-src/src/mpu6500.cpp
 
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.i"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-src/src/mpu6500.cpp > CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.i
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-src/src/mpu6500.cpp > CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.i
 
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.s"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-src/src/mpu6500.cpp -o CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.s
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-src/src/mpu6500.cpp -o CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.s
 
 # Object files for target invensense_imu
 invensense_imu_OBJECTS = \
@@ -125,19 +125,19 @@ _deps/invensense_imu-build/libinvensense_imu.a: _deps/invensense_imu-build/CMake
 _deps/invensense_imu-build/libinvensense_imu.a: _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj
 _deps/invensense_imu-build/libinvensense_imu.a: _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/build.make
 _deps/invensense_imu-build/libinvensense_imu.a: _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX static library libinvensense_imu.a"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build && $(CMAKE_COMMAND) -P CMakeFiles/invensense_imu.dir/cmake_clean_target.cmake
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/invensense_imu.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX static library libinvensense_imu.a"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build && $(CMAKE_COMMAND) -P CMakeFiles/invensense_imu.dir/cmake_clean_target.cmake
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/invensense_imu.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/build: _deps/invensense_imu-build/libinvensense_imu.a
 .PHONY : _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/build
 
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/clean:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build && $(CMAKE_COMMAND) -P CMakeFiles/invensense_imu.dir/cmake_clean.cmake
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build && $(CMAKE_COMMAND) -P CMakeFiles/invensense_imu.dir/cmake_clean.cmake
 .PHONY : _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/clean
 
 _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/depend:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-src /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/Drone_STI/flight_code /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-src /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : _deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/depend
 

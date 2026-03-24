@@ -1,14 +1,14 @@
 # Target labels
  sbus-populate
 # Source files and their labels
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/CMakeFiles/sbus-populate
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/CMakeFiles/sbus-populate.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/CMakeFiles/sbus-populate-complete.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-build.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-configure.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-download.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-install.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-mkdir.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-patch.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-test.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-update.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/CMakeFiles/sbus-populate
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/CMakeFiles/sbus-populate.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/CMakeFiles/sbus-populate-complete.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-build.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-configure.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-download.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-install.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-mkdir.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-patch.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-test.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/sbus-subbuild/sbus-populate-prefix/src/sbus-populate-stamp/sbus-populate-update.rule

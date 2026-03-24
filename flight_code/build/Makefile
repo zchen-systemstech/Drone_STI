@@ -57,10 +57,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code
+CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build
+CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -324,29 +324,29 @@ matek3901/fast:
 	$(MAKE) $(MAKESILENT) -f _deps/matek3901-build/CMakeFiles/matek3901.dir/build.make _deps/matek3901-build/CMakeFiles/matek3901.dir/build
 .PHONY : matek3901/fast
 
-autocode/ground_test_EMF_ert_rtw/autocode.obj: autocode/ground_test_EMF_ert_rtw/autocode.cpp.obj
-.PHONY : autocode/ground_test_EMF_ert_rtw/autocode.obj
+autocode/ground_test_EMF_new_ert_rtw/autocode.obj: autocode/ground_test_EMF_new_ert_rtw/autocode.cpp.obj
+.PHONY : autocode/ground_test_EMF_new_ert_rtw/autocode.obj
 
 # target to build an object file
-autocode/ground_test_EMF_ert_rtw/autocode.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/flight.dir/build.make CMakeFiles/flight.dir/autocode/ground_test_EMF_ert_rtw/autocode.cpp.obj
-.PHONY : autocode/ground_test_EMF_ert_rtw/autocode.cpp.obj
+autocode/ground_test_EMF_new_ert_rtw/autocode.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/flight.dir/build.make CMakeFiles/flight.dir/autocode/ground_test_EMF_new_ert_rtw/autocode.cpp.obj
+.PHONY : autocode/ground_test_EMF_new_ert_rtw/autocode.cpp.obj
 
-autocode/ground_test_EMF_ert_rtw/autocode.i: autocode/ground_test_EMF_ert_rtw/autocode.cpp.i
-.PHONY : autocode/ground_test_EMF_ert_rtw/autocode.i
+autocode/ground_test_EMF_new_ert_rtw/autocode.i: autocode/ground_test_EMF_new_ert_rtw/autocode.cpp.i
+.PHONY : autocode/ground_test_EMF_new_ert_rtw/autocode.i
 
 # target to preprocess a source file
-autocode/ground_test_EMF_ert_rtw/autocode.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/flight.dir/build.make CMakeFiles/flight.dir/autocode/ground_test_EMF_ert_rtw/autocode.cpp.i
-.PHONY : autocode/ground_test_EMF_ert_rtw/autocode.cpp.i
+autocode/ground_test_EMF_new_ert_rtw/autocode.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/flight.dir/build.make CMakeFiles/flight.dir/autocode/ground_test_EMF_new_ert_rtw/autocode.cpp.i
+.PHONY : autocode/ground_test_EMF_new_ert_rtw/autocode.cpp.i
 
-autocode/ground_test_EMF_ert_rtw/autocode.s: autocode/ground_test_EMF_ert_rtw/autocode.cpp.s
-.PHONY : autocode/ground_test_EMF_ert_rtw/autocode.s
+autocode/ground_test_EMF_new_ert_rtw/autocode.s: autocode/ground_test_EMF_new_ert_rtw/autocode.cpp.s
+.PHONY : autocode/ground_test_EMF_new_ert_rtw/autocode.s
 
 # target to generate assembly for a file
-autocode/ground_test_EMF_ert_rtw/autocode.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/flight.dir/build.make CMakeFiles/flight.dir/autocode/ground_test_EMF_ert_rtw/autocode.cpp.s
-.PHONY : autocode/ground_test_EMF_ert_rtw/autocode.cpp.s
+autocode/ground_test_EMF_new_ert_rtw/autocode.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/flight.dir/build.make CMakeFiles/flight.dir/autocode/ground_test_EMF_new_ert_rtw/autocode.cpp.s
+.PHONY : autocode/ground_test_EMF_new_ert_rtw/autocode.cpp.s
 
 drivers/analog.obj: drivers/analog.cc.obj
 .PHONY : drivers/analog.obj
@@ -900,9 +900,9 @@ help:
 	@echo "... sd"
 	@echo "... ubx"
 	@echo "... vector_nav"
-	@echo "... autocode/ground_test_EMF_ert_rtw/autocode.obj"
-	@echo "... autocode/ground_test_EMF_ert_rtw/autocode.i"
-	@echo "... autocode/ground_test_EMF_ert_rtw/autocode.s"
+	@echo "... autocode/ground_test_EMF_new_ert_rtw/autocode.obj"
+	@echo "... autocode/ground_test_EMF_new_ert_rtw/autocode.i"
+	@echo "... autocode/ground_test_EMF_new_ert_rtw/autocode.s"
 	@echo "... drivers/analog.obj"
 	@echo "... drivers/analog.i"
 	@echo "... drivers/analog.s"

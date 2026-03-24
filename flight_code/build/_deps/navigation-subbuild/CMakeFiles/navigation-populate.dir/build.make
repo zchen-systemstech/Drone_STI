@@ -53,10 +53,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild
+CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild
+CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild
 
 # Utility rule file for navigation-populate.
 
@@ -77,63 +77,63 @@ CMakeFiles/navigation-populate-complete: navigation-populate-prefix/src/navigati
 CMakeFiles/navigation-populate-complete: navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-build
 CMakeFiles/navigation-populate-complete: navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-install
 CMakeFiles/navigation-populate-complete: navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-test
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'navigation-populate'"
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles
-	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles/navigation-populate-complete
-	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-done
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'navigation-populate'"
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles
+	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles/navigation-populate-complete
+	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-done
 
 navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-update:
 .PHONY : navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-update
 
 navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-build: navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-configure
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "No build step for 'navigation-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E echo_append
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "No build step for 'navigation-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E echo_append
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-build
 
 navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-configure: navigation-populate-prefix/tmp/navigation-populate-cfgcmd.txt
 navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-configure: navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-patch
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "No configure step for 'navigation-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E echo_append
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-configure
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "No configure step for 'navigation-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E echo_append
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-configure
 
 navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-download: navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-gitinfo.txt
 navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-download: navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-mkdir
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Performing download step (git clone) for 'navigation-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps && /usr/local/bin/cmake -P /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/tmp/navigation-populate-gitclone.cmake
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-download
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Performing download step (git clone) for 'navigation-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps && /usr/local/bin/cmake -P /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/tmp/navigation-populate-gitclone.cmake
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-download
 
 navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-install: navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "No install step for 'navigation-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E echo_append
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-install
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "No install step for 'navigation-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E echo_append
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-install
 
 navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-mkdir:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'navigation-populate'"
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-src
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-build
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/tmp
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp
-	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-mkdir
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'navigation-populate'"
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-src
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-build
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/tmp
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp
+	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-mkdir
 
 navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-patch: navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-update
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'navigation-populate'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'navigation-populate'"
 	/usr/local/bin/cmake -E echo_append
-	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-patch
+	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-patch
 
 navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-update:
 .PHONY : navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-update
 
 navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-test: navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-install
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "No test step for 'navigation-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E echo_append
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-test
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "No test step for 'navigation-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E echo_append
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-test
 
 navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-update: navigation-populate-prefix/src/navigation-populate-stamp/navigation-populate-download
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Performing update step for 'navigation-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-src && /usr/local/bin/cmake -P /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/tmp/navigation-populate-gitupdate.cmake
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Performing update step for 'navigation-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-src && /usr/local/bin/cmake -P /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/navigation-populate-prefix/tmp/navigation-populate-gitupdate.cmake
 
 navigation-populate: CMakeFiles/navigation-populate
 navigation-populate: CMakeFiles/navigation-populate-complete
@@ -157,6 +157,6 @@ CMakeFiles/navigation-populate.dir/clean:
 .PHONY : CMakeFiles/navigation-populate.dir/clean
 
 CMakeFiles/navigation-populate.dir/depend:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/navigation-subbuild/CMakeFiles/navigation-populate.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/navigation-subbuild/CMakeFiles/navigation-populate.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/navigation-populate.dir/depend
 

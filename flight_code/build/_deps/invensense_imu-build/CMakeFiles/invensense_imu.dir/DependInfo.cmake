@@ -8,14 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-src/src/invensense_imu.cpp" "_deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj" "gcc" "_deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj.d"
-  "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-src/src/mpu6500.cpp" "_deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj" "gcc" "_deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj.d"
-  "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/invensense_imu-src/src/mpu9250.cpp" "_deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj" "gcc" "_deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj.d"
+  "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-src/src/invensense_imu.cpp" "_deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj" "gcc" "_deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/invensense_imu.cpp.obj.d"
+  "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-src/src/mpu6500.cpp" "_deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj" "gcc" "_deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu6500.cpp.obj.d"
+  "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/invensense_imu-src/src/mpu9250.cpp" "_deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj" "gcc" "_deps/invensense_imu-build/CMakeFiles/invensense_imu.dir/src/mpu9250.cpp.obj.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-build/CMakeFiles/core.dir/DependInfo.cmake"
+  "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/core-build/CMakeFiles/core.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

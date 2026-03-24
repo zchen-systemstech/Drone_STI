@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/CMakeFiles/airdata-populate"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/airdata-subbuild/CMakeFiles/airdata-populate"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/CMakeFiles/airdata-populate.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/airdata-subbuild/CMakeFiles/airdata-populate.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/CMakeFiles/airdata-populate-complete.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/airdata-subbuild/CMakeFiles/airdata-populate-complete.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-build.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-build.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-configure.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-configure.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-download.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-download.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-install.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-install.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-mkdir.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-mkdir.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-patch.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-patch.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-test.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-test.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-update.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-update.rule"
 		}
 	],
 	"target" : 

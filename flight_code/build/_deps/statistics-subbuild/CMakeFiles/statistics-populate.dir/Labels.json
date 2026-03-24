@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/statistics-subbuild/CMakeFiles/statistics-populate"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/statistics-subbuild/CMakeFiles/statistics-populate"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/statistics-subbuild/CMakeFiles/statistics-populate.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/statistics-subbuild/CMakeFiles/statistics-populate.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/statistics-subbuild/CMakeFiles/statistics-populate-complete.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/statistics-subbuild/CMakeFiles/statistics-populate-complete.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-build.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-build.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-configure.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-configure.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-download.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-download.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-install.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-install.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-mkdir.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-mkdir.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-patch.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-patch.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-test.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-test.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-update.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/statistics-subbuild/statistics-populate-prefix/src/statistics-populate-stamp/statistics-populate-update.rule"
 		}
 	],
 	"target" : 

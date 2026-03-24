@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate-complete.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate-complete.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-build.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-build.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-configure.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-configure.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-download.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-download.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-install.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-install.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-mkdir.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-mkdir.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-patch.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-patch.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-test.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-test.rule"
 		},
 		{
-			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-update.rule"
+			"file" : "/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-update.rule"
 		}
 	],
 	"target" : 

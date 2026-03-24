@@ -53,10 +53,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code
+CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build
+CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build
 
 # Include any dependencies generated for this target.
 include _deps/ams5915-build/CMakeFiles/ams5915.dir/depend.make
@@ -72,16 +72,16 @@ include _deps/ams5915-build/CMakeFiles/ams5915.dir/flags.make
 _deps/ams5915-build/CMakeFiles/ams5915.dir/src/ams5915.cpp.obj: _deps/ams5915-build/CMakeFiles/ams5915.dir/flags.make
 _deps/ams5915-build/CMakeFiles/ams5915.dir/src/ams5915.cpp.obj: _deps/ams5915-src/src/ams5915.cpp
 _deps/ams5915-build/CMakeFiles/ams5915.dir/src/ams5915.cpp.obj: _deps/ams5915-build/CMakeFiles/ams5915.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/ams5915-build/CMakeFiles/ams5915.dir/src/ams5915.cpp.obj"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/ams5915-build/CMakeFiles/ams5915.dir/src/ams5915.cpp.obj -MF CMakeFiles/ams5915.dir/src/ams5915.cpp.obj.d -o CMakeFiles/ams5915.dir/src/ams5915.cpp.obj -c /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-src/src/ams5915.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/ams5915-build/CMakeFiles/ams5915.dir/src/ams5915.cpp.obj"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/ams5915-build/CMakeFiles/ams5915.dir/src/ams5915.cpp.obj -MF CMakeFiles/ams5915.dir/src/ams5915.cpp.obj.d -o CMakeFiles/ams5915.dir/src/ams5915.cpp.obj -c /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-src/src/ams5915.cpp
 
 _deps/ams5915-build/CMakeFiles/ams5915.dir/src/ams5915.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ams5915.dir/src/ams5915.cpp.i"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-src/src/ams5915.cpp > CMakeFiles/ams5915.dir/src/ams5915.cpp.i
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-src/src/ams5915.cpp > CMakeFiles/ams5915.dir/src/ams5915.cpp.i
 
 _deps/ams5915-build/CMakeFiles/ams5915.dir/src/ams5915.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ams5915.dir/src/ams5915.cpp.s"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-src/src/ams5915.cpp -o CMakeFiles/ams5915.dir/src/ams5915.cpp.s
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-src/src/ams5915.cpp -o CMakeFiles/ams5915.dir/src/ams5915.cpp.s
 
 # Object files for target ams5915
 ams5915_OBJECTS = \
@@ -93,19 +93,19 @@ ams5915_EXTERNAL_OBJECTS =
 _deps/ams5915-build/libams5915.a: _deps/ams5915-build/CMakeFiles/ams5915.dir/src/ams5915.cpp.obj
 _deps/ams5915-build/libams5915.a: _deps/ams5915-build/CMakeFiles/ams5915.dir/build.make
 _deps/ams5915-build/libams5915.a: _deps/ams5915-build/CMakeFiles/ams5915.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libams5915.a"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-build && $(CMAKE_COMMAND) -P CMakeFiles/ams5915.dir/cmake_clean_target.cmake
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-build && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ams5915.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libams5915.a"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-build && $(CMAKE_COMMAND) -P CMakeFiles/ams5915.dir/cmake_clean_target.cmake
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-build && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ams5915.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 _deps/ams5915-build/CMakeFiles/ams5915.dir/build: _deps/ams5915-build/libams5915.a
 .PHONY : _deps/ams5915-build/CMakeFiles/ams5915.dir/build
 
 _deps/ams5915-build/CMakeFiles/ams5915.dir/clean:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-build && $(CMAKE_COMMAND) -P CMakeFiles/ams5915.dir/cmake_clean.cmake
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-build && $(CMAKE_COMMAND) -P CMakeFiles/ams5915.dir/cmake_clean.cmake
 .PHONY : _deps/ams5915-build/CMakeFiles/ams5915.dir/clean
 
 _deps/ams5915-build/CMakeFiles/ams5915.dir/depend:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-src /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-build /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ams5915-build/CMakeFiles/ams5915.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/Drone_STI/flight_code /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-src /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-build /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/ams5915-build/CMakeFiles/ams5915.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : _deps/ams5915-build/CMakeFiles/ams5915.dir/depend
 

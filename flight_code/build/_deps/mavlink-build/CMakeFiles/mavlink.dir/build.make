@@ -53,10 +53,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code
+CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build
+CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build
 
 # Include any dependencies generated for this target.
 include _deps/mavlink-build/CMakeFiles/mavlink.dir/depend.make
@@ -72,58 +72,58 @@ include _deps/mavlink-build/CMakeFiles/mavlink.dir/flags.make
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/heartbeat.cpp.obj: _deps/mavlink-build/CMakeFiles/mavlink.dir/flags.make
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/heartbeat.cpp.obj: _deps/mavlink-src/src/heartbeat.cpp
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/heartbeat.cpp.obj: _deps/mavlink-build/CMakeFiles/mavlink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/mavlink-build/CMakeFiles/mavlink.dir/src/heartbeat.cpp.obj"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/mavlink-build/CMakeFiles/mavlink.dir/src/heartbeat.cpp.obj -MF CMakeFiles/mavlink.dir/src/heartbeat.cpp.obj.d -o CMakeFiles/mavlink.dir/src/heartbeat.cpp.obj -c /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src/src/heartbeat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/mavlink-build/CMakeFiles/mavlink.dir/src/heartbeat.cpp.obj"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/mavlink-build/CMakeFiles/mavlink.dir/src/heartbeat.cpp.obj -MF CMakeFiles/mavlink.dir/src/heartbeat.cpp.obj.d -o CMakeFiles/mavlink.dir/src/heartbeat.cpp.obj -c /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src/src/heartbeat.cpp
 
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/heartbeat.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mavlink.dir/src/heartbeat.cpp.i"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src/src/heartbeat.cpp > CMakeFiles/mavlink.dir/src/heartbeat.cpp.i
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src/src/heartbeat.cpp > CMakeFiles/mavlink.dir/src/heartbeat.cpp.i
 
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/heartbeat.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mavlink.dir/src/heartbeat.cpp.s"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src/src/heartbeat.cpp -o CMakeFiles/mavlink.dir/src/heartbeat.cpp.s
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src/src/heartbeat.cpp -o CMakeFiles/mavlink.dir/src/heartbeat.cpp.s
 
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/telemetry.cpp.obj: _deps/mavlink-build/CMakeFiles/mavlink.dir/flags.make
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/telemetry.cpp.obj: _deps/mavlink-src/src/telemetry.cpp
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/telemetry.cpp.obj: _deps/mavlink-build/CMakeFiles/mavlink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object _deps/mavlink-build/CMakeFiles/mavlink.dir/src/telemetry.cpp.obj"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/mavlink-build/CMakeFiles/mavlink.dir/src/telemetry.cpp.obj -MF CMakeFiles/mavlink.dir/src/telemetry.cpp.obj.d -o CMakeFiles/mavlink.dir/src/telemetry.cpp.obj -c /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src/src/telemetry.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object _deps/mavlink-build/CMakeFiles/mavlink.dir/src/telemetry.cpp.obj"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/mavlink-build/CMakeFiles/mavlink.dir/src/telemetry.cpp.obj -MF CMakeFiles/mavlink.dir/src/telemetry.cpp.obj.d -o CMakeFiles/mavlink.dir/src/telemetry.cpp.obj -c /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src/src/telemetry.cpp
 
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/telemetry.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mavlink.dir/src/telemetry.cpp.i"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src/src/telemetry.cpp > CMakeFiles/mavlink.dir/src/telemetry.cpp.i
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src/src/telemetry.cpp > CMakeFiles/mavlink.dir/src/telemetry.cpp.i
 
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/telemetry.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mavlink.dir/src/telemetry.cpp.s"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src/src/telemetry.cpp -o CMakeFiles/mavlink.dir/src/telemetry.cpp.s
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src/src/telemetry.cpp -o CMakeFiles/mavlink.dir/src/telemetry.cpp.s
 
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/mission.cpp.obj: _deps/mavlink-build/CMakeFiles/mavlink.dir/flags.make
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/mission.cpp.obj: _deps/mavlink-src/src/mission.cpp
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/mission.cpp.obj: _deps/mavlink-build/CMakeFiles/mavlink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object _deps/mavlink-build/CMakeFiles/mavlink.dir/src/mission.cpp.obj"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/mavlink-build/CMakeFiles/mavlink.dir/src/mission.cpp.obj -MF CMakeFiles/mavlink.dir/src/mission.cpp.obj.d -o CMakeFiles/mavlink.dir/src/mission.cpp.obj -c /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src/src/mission.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object _deps/mavlink-build/CMakeFiles/mavlink.dir/src/mission.cpp.obj"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/mavlink-build/CMakeFiles/mavlink.dir/src/mission.cpp.obj -MF CMakeFiles/mavlink.dir/src/mission.cpp.obj.d -o CMakeFiles/mavlink.dir/src/mission.cpp.obj -c /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src/src/mission.cpp
 
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/mission.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mavlink.dir/src/mission.cpp.i"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src/src/mission.cpp > CMakeFiles/mavlink.dir/src/mission.cpp.i
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src/src/mission.cpp > CMakeFiles/mavlink.dir/src/mission.cpp.i
 
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/mission.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mavlink.dir/src/mission.cpp.s"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src/src/mission.cpp -o CMakeFiles/mavlink.dir/src/mission.cpp.s
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src/src/mission.cpp -o CMakeFiles/mavlink.dir/src/mission.cpp.s
 
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/rtcm.cpp.obj: _deps/mavlink-build/CMakeFiles/mavlink.dir/flags.make
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/rtcm.cpp.obj: _deps/mavlink-src/src/rtcm.cpp
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/rtcm.cpp.obj: _deps/mavlink-build/CMakeFiles/mavlink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object _deps/mavlink-build/CMakeFiles/mavlink.dir/src/rtcm.cpp.obj"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/mavlink-build/CMakeFiles/mavlink.dir/src/rtcm.cpp.obj -MF CMakeFiles/mavlink.dir/src/rtcm.cpp.obj.d -o CMakeFiles/mavlink.dir/src/rtcm.cpp.obj -c /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src/src/rtcm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object _deps/mavlink-build/CMakeFiles/mavlink.dir/src/rtcm.cpp.obj"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/mavlink-build/CMakeFiles/mavlink.dir/src/rtcm.cpp.obj -MF CMakeFiles/mavlink.dir/src/rtcm.cpp.obj.d -o CMakeFiles/mavlink.dir/src/rtcm.cpp.obj -c /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src/src/rtcm.cpp
 
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/rtcm.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mavlink.dir/src/rtcm.cpp.i"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src/src/rtcm.cpp > CMakeFiles/mavlink.dir/src/rtcm.cpp.i
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src/src/rtcm.cpp > CMakeFiles/mavlink.dir/src/rtcm.cpp.i
 
 _deps/mavlink-build/CMakeFiles/mavlink.dir/src/rtcm.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mavlink.dir/src/rtcm.cpp.s"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src/src/rtcm.cpp -o CMakeFiles/mavlink.dir/src/rtcm.cpp.s
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src/src/rtcm.cpp -o CMakeFiles/mavlink.dir/src/rtcm.cpp.s
 
 # Object files for target mavlink
 mavlink_OBJECTS = \
@@ -141,19 +141,19 @@ _deps/mavlink-build/libmavlink.a: _deps/mavlink-build/CMakeFiles/mavlink.dir/src
 _deps/mavlink-build/libmavlink.a: _deps/mavlink-build/CMakeFiles/mavlink.dir/src/rtcm.cpp.obj
 _deps/mavlink-build/libmavlink.a: _deps/mavlink-build/CMakeFiles/mavlink.dir/build.make
 _deps/mavlink-build/libmavlink.a: _deps/mavlink-build/CMakeFiles/mavlink.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX static library libmavlink.a"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && $(CMAKE_COMMAND) -P CMakeFiles/mavlink.dir/cmake_clean_target.cmake
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mavlink.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX static library libmavlink.a"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && $(CMAKE_COMMAND) -P CMakeFiles/mavlink.dir/cmake_clean_target.cmake
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mavlink.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 _deps/mavlink-build/CMakeFiles/mavlink.dir/build: _deps/mavlink-build/libmavlink.a
 .PHONY : _deps/mavlink-build/CMakeFiles/mavlink.dir/build
 
 _deps/mavlink-build/CMakeFiles/mavlink.dir/clean:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build && $(CMAKE_COMMAND) -P CMakeFiles/mavlink.dir/cmake_clean.cmake
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build && $(CMAKE_COMMAND) -P CMakeFiles/mavlink.dir/cmake_clean.cmake
 .PHONY : _deps/mavlink-build/CMakeFiles/mavlink.dir/clean
 
 _deps/mavlink-build/CMakeFiles/mavlink.dir/depend:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-src /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mavlink-build/CMakeFiles/mavlink.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/Drone_STI/flight_code /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-src /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/mavlink-build/CMakeFiles/mavlink.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : _deps/mavlink-build/CMakeFiles/mavlink.dir/depend
 

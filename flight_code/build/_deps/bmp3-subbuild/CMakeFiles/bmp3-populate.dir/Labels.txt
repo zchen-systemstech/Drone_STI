@@ -1,14 +1,14 @@
 # Target labels
  bmp3-populate
 # Source files and their labels
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/CMakeFiles/bmp3-populate
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/CMakeFiles/bmp3-populate.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/CMakeFiles/bmp3-populate-complete.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-build.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-configure.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-download.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-install.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-mkdir.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-patch.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-test.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-update.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bmp3-subbuild/CMakeFiles/bmp3-populate
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bmp3-subbuild/CMakeFiles/bmp3-populate.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bmp3-subbuild/CMakeFiles/bmp3-populate-complete.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-build.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-configure.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-download.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-install.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-mkdir.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-patch.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-test.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-update.rule

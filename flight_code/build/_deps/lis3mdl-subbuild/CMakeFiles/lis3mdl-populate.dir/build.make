@@ -53,10 +53,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild
+CMAKE_SOURCE_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild
+CMAKE_BINARY_DIR = /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild
 
 # Utility rule file for lis3mdl-populate.
 
@@ -77,63 +77,63 @@ CMakeFiles/lis3mdl-populate-complete: lis3mdl-populate-prefix/src/lis3mdl-popula
 CMakeFiles/lis3mdl-populate-complete: lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-build
 CMakeFiles/lis3mdl-populate-complete: lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-install
 CMakeFiles/lis3mdl-populate-complete: lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-test
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'lis3mdl-populate'"
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles
-	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles/lis3mdl-populate-complete
-	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-done
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'lis3mdl-populate'"
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles
+	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles/lis3mdl-populate-complete
+	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-done
 
 lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-update:
 .PHONY : lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-update
 
 lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-build: lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-configure
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "No build step for 'lis3mdl-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E echo_append
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "No build step for 'lis3mdl-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E echo_append
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-build
 
 lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-configure: lis3mdl-populate-prefix/tmp/lis3mdl-populate-cfgcmd.txt
 lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-configure: lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-patch
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "No configure step for 'lis3mdl-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E echo_append
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-configure
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "No configure step for 'lis3mdl-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E echo_append
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-configure
 
 lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-download: lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-gitinfo.txt
 lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-download: lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-mkdir
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Performing download step (git clone) for 'lis3mdl-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps && /usr/local/bin/cmake -P /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/tmp/lis3mdl-populate-gitclone.cmake
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-download
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Performing download step (git clone) for 'lis3mdl-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps && /usr/local/bin/cmake -P /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/tmp/lis3mdl-populate-gitclone.cmake
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-download
 
 lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-install: lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "No install step for 'lis3mdl-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E echo_append
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-install
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "No install step for 'lis3mdl-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E echo_append
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-install
 
 lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-mkdir:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'lis3mdl-populate'"
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-src
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/tmp
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src
-	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp
-	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-mkdir
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'lis3mdl-populate'"
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-src
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/tmp
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src
+	/usr/local/bin/cmake -E make_directory /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp
+	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-mkdir
 
 lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-patch: lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-update
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'lis3mdl-populate'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'lis3mdl-populate'"
 	/usr/local/bin/cmake -E echo_append
-	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-patch
+	/usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-patch
 
 lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-update:
 .PHONY : lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-update
 
 lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-test: lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-install
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "No test step for 'lis3mdl-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E echo_append
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-test
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "No test step for 'lis3mdl-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E echo_append
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-build && /usr/local/bin/cmake -E touch /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-test
 
 lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-update: lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-download
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Performing update step for 'lis3mdl-populate'"
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-src && /usr/local/bin/cmake -P /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/tmp/lis3mdl-populate-gitupdate.cmake
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Performing update step for 'lis3mdl-populate'"
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-src && /usr/local/bin/cmake -P /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/tmp/lis3mdl-populate-gitupdate.cmake
 
 lis3mdl-populate: CMakeFiles/lis3mdl-populate
 lis3mdl-populate: CMakeFiles/lis3mdl-populate-complete
@@ -157,6 +157,6 @@ CMakeFiles/lis3mdl-populate.dir/clean:
 .PHONY : CMakeFiles/lis3mdl-populate.dir/clean
 
 CMakeFiles/lis3mdl-populate.dir/depend:
-	cd /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild /mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles/lis3mdl-populate.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild /mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles/lis3mdl-populate.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/lis3mdl-populate.dir/depend
 

@@ -1,14 +1,14 @@
 # Target labels
  pwm-populate
 # Source files and their labels
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/CMakeFiles/pwm-populate
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/CMakeFiles/pwm-populate.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/CMakeFiles/pwm-populate-complete.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-build.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-configure.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-download.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-install.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-mkdir.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-patch.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-test.rule
-/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-update.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/CMakeFiles/pwm-populate
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/CMakeFiles/pwm-populate.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/CMakeFiles/pwm-populate-complete.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-build.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-configure.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-download.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-install.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-mkdir.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-patch.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-test.rule
+/mnt/c/users/zchen/Projects/Drone_STI/flight_code/build/_deps/pwm-subbuild/pwm-populate-prefix/src/pwm-populate-stamp/pwm-populate-update.rule
