@@ -1,0 +1,14 @@
+# Target labels
+ lis3mdl-populate
+# Source files and their labels
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles/lis3mdl-populate
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles/lis3mdl-populate.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/CMakeFiles/lis3mdl-populate-complete.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-build.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-configure.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-download.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-install.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-mkdir.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-patch.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-test.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/lis3mdl-subbuild/lis3mdl-populate-prefix/src/lis3mdl-populate-stamp/lis3mdl-populate-update.rule

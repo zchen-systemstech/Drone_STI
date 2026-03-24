@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/CMakeFiles/core-populate"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/CMakeFiles/core-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/CMakeFiles/core-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/core-subbuild/core-populate-prefix/src/core-populate-stamp/core-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"core-populate"
+		],
+		"name" : "core-populate"
+	}
+}

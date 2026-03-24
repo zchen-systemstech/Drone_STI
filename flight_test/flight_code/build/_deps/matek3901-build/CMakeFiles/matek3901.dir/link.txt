@@ -1,0 +1,2 @@
+/usr/local/bin/arm-none-eabi-ar qc libmatek3901.a CMakeFiles/matek3901.dir/src/matek3901.cpp.obj
+/usr/local/bin/arm-none-eabi-ranlib libmatek3901.a

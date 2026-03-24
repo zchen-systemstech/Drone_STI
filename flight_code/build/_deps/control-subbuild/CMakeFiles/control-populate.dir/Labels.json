@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/control-subbuild/CMakeFiles/control-populate"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/control-subbuild/CMakeFiles/control-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/control-subbuild/CMakeFiles/control-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/control-subbuild/control-populate-prefix/src/control-populate-stamp/control-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/control-subbuild/control-populate-prefix/src/control-populate-stamp/control-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/control-subbuild/control-populate-prefix/src/control-populate-stamp/control-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/control-subbuild/control-populate-prefix/src/control-populate-stamp/control-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/control-subbuild/control-populate-prefix/src/control-populate-stamp/control-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/control-subbuild/control-populate-prefix/src/control-populate-stamp/control-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/control-subbuild/control-populate-prefix/src/control-populate-stamp/control-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/control-subbuild/control-populate-prefix/src/control-populate-stamp/control-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"control-populate"
+		],
+		"name" : "control-populate"
+	}
+}

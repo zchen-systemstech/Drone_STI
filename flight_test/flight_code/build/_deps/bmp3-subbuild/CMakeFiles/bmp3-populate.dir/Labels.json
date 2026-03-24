@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/CMakeFiles/bmp3-populate"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/CMakeFiles/bmp3-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/CMakeFiles/bmp3-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/bmp3-subbuild/bmp3-populate-prefix/src/bmp3-populate-stamp/bmp3-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bmp3-populate"
+		],
+		"name" : "bmp3-populate"
+	}
+}

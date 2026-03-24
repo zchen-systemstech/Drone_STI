@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/framing-subbuild/CMakeFiles/framing-populate"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/framing-subbuild/CMakeFiles/framing-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/framing-subbuild/CMakeFiles/framing-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/framing-subbuild/framing-populate-prefix/src/framing-populate-stamp/framing-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/framing-subbuild/framing-populate-prefix/src/framing-populate-stamp/framing-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/framing-subbuild/framing-populate-prefix/src/framing-populate-stamp/framing-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/framing-subbuild/framing-populate-prefix/src/framing-populate-stamp/framing-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/framing-subbuild/framing-populate-prefix/src/framing-populate-stamp/framing-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/framing-subbuild/framing-populate-prefix/src/framing-populate-stamp/framing-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/framing-subbuild/framing-populate-prefix/src/framing-populate-stamp/framing-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/framing-subbuild/framing-populate-prefix/src/framing-populate-stamp/framing-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"framing-populate"
+		],
+		"name" : "framing-populate"
+	}
+}

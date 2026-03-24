@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/CMakeFiles/ubx-populate"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/CMakeFiles/ubx-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/CMakeFiles/ubx-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/ubx-subbuild/ubx-populate-prefix/src/ubx-populate-stamp/ubx-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ubx-populate"
+		],
+		"name" : "ubx-populate"
+	}
+}

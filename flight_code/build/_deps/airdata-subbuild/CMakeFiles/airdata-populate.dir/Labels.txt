@@ -1,0 +1,14 @@
+# Target labels
+ airdata-populate
+# Source files and their labels
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/CMakeFiles/airdata-populate
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/CMakeFiles/airdata-populate.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/CMakeFiles/airdata-populate-complete.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-build.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-configure.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-download.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-install.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-mkdir.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-patch.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-test.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/airdata-subbuild/airdata-populate-prefix/src/airdata-populate-stamp/airdata-populate-update.rule

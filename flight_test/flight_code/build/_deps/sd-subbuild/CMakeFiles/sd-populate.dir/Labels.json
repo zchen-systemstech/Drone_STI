@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sd-subbuild/CMakeFiles/sd-populate"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sd-subbuild/CMakeFiles/sd-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sd-subbuild/CMakeFiles/sd-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sd-subbuild/sd-populate-prefix/src/sd-populate-stamp/sd-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sd-subbuild/sd-populate-prefix/src/sd-populate-stamp/sd-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sd-subbuild/sd-populate-prefix/src/sd-populate-stamp/sd-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sd-subbuild/sd-populate-prefix/src/sd-populate-stamp/sd-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sd-subbuild/sd-populate-prefix/src/sd-populate-stamp/sd-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sd-subbuild/sd-populate-prefix/src/sd-populate-stamp/sd-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sd-subbuild/sd-populate-prefix/src/sd-populate-stamp/sd-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/sd-subbuild/sd-populate-prefix/src/sd-populate-stamp/sd-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sd-populate"
+		],
+		"name" : "sd-populate"
+	}
+}

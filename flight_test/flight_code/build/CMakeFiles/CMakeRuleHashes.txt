@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+b60b867868495285c7aafbf9962d60ad CMakeFiles/flight_hex
+bfd9db90fbbab14c9c0d0691b9021d8c CMakeFiles/flight_upload
+60ed0641079cbc21216e83d5b07b1fbb flight.hex

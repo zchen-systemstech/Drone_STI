@@ -1,0 +1,14 @@
+# Target labels
+ logger-populate
+# Source files and their labels
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/CMakeFiles/logger-populate
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/CMakeFiles/logger-populate.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/CMakeFiles/logger-populate-complete.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-build.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-configure.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-download.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-install.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-mkdir.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-patch.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-test.rule
+/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/logger-subbuild/logger-populate-prefix/src/logger-populate-stamp/logger-populate-update.rule

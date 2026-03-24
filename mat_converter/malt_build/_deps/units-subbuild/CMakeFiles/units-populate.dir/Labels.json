@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/units-subbuild/CMakeFiles/units-populate"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/units-subbuild/CMakeFiles/units-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/units-subbuild/CMakeFiles/units-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/units-subbuild/units-populate-prefix/src/units-populate-stamp/units-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/units-subbuild/units-populate-prefix/src/units-populate-stamp/units-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/units-subbuild/units-populate-prefix/src/units-populate-stamp/units-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/units-subbuild/units-populate-prefix/src/units-populate-stamp/units-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/units-subbuild/units-populate-prefix/src/units-populate-stamp/units-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/units-subbuild/units-populate-prefix/src/units-populate-stamp/units-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/units-subbuild/units-populate-prefix/src/units-populate-stamp/units-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/units-subbuild/units-populate-prefix/src/units-populate-stamp/units-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"units-populate"
+		],
+		"name" : "units-populate"
+	}
+}

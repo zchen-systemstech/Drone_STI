@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/CMakeFiles/mcu_support-populate"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/CMakeFiles/mcu_support-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/CMakeFiles/mcu_support-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/mcu_support-subbuild/mcu_support-populate-prefix/src/mcu_support-populate-stamp/mcu_support-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"mcu_support-populate"
+		],
+		"name" : "mcu_support-populate"
+	}
+}

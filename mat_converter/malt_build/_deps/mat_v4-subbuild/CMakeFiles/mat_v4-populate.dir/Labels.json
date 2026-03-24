@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/mat_v4-subbuild/CMakeFiles/mat_v4-populate"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/mat_v4-subbuild/CMakeFiles/mat_v4-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/mat_v4-subbuild/CMakeFiles/mat_v4-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/mat_v4-subbuild/mat_v4-populate-prefix/src/mat_v4-populate-stamp/mat_v4-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/mat_v4-subbuild/mat_v4-populate-prefix/src/mat_v4-populate-stamp/mat_v4-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/mat_v4-subbuild/mat_v4-populate-prefix/src/mat_v4-populate-stamp/mat_v4-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/mat_v4-subbuild/mat_v4-populate-prefix/src/mat_v4-populate-stamp/mat_v4-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/mat_v4-subbuild/mat_v4-populate-prefix/src/mat_v4-populate-stamp/mat_v4-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/mat_v4-subbuild/mat_v4-populate-prefix/src/mat_v4-populate-stamp/mat_v4-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/mat_v4-subbuild/mat_v4-populate-prefix/src/mat_v4-populate-stamp/mat_v4-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/mat_converter/build/_deps/mat_v4-subbuild/mat_v4-populate-prefix/src/mat_v4-populate-stamp/mat_v4-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"mat_v4-populate"
+		],
+		"name" : "mat_v4-populate"
+	}
+}

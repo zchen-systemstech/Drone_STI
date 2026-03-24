@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/circle_buf-subbuild/CMakeFiles/circle_buf-populate"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/circle_buf-subbuild/CMakeFiles/circle_buf-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/circle_buf-subbuild/CMakeFiles/circle_buf-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/circle_buf-subbuild/circle_buf-populate-prefix/src/circle_buf-populate-stamp/circle_buf-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/circle_buf-subbuild/circle_buf-populate-prefix/src/circle_buf-populate-stamp/circle_buf-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/circle_buf-subbuild/circle_buf-populate-prefix/src/circle_buf-populate-stamp/circle_buf-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/circle_buf-subbuild/circle_buf-populate-prefix/src/circle_buf-populate-stamp/circle_buf-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/circle_buf-subbuild/circle_buf-populate-prefix/src/circle_buf-populate-stamp/circle_buf-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/circle_buf-subbuild/circle_buf-populate-prefix/src/circle_buf-populate-stamp/circle_buf-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/circle_buf-subbuild/circle_buf-populate-prefix/src/circle_buf-populate-stamp/circle_buf-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/circle_buf-subbuild/circle_buf-populate-prefix/src/circle_buf-populate-stamp/circle_buf-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"circle_buf-populate"
+		],
+		"name" : "circle_buf-populate"
+	}
+}

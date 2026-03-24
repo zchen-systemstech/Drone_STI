@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/filter-subbuild/CMakeFiles/filter-populate"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/filter-subbuild/CMakeFiles/filter-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/filter-subbuild/CMakeFiles/filter-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/filter-subbuild/filter-populate-prefix/src/filter-populate-stamp/filter-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/filter-subbuild/filter-populate-prefix/src/filter-populate-stamp/filter-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/filter-subbuild/filter-populate-prefix/src/filter-populate-stamp/filter-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/filter-subbuild/filter-populate-prefix/src/filter-populate-stamp/filter-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/filter-subbuild/filter-populate-prefix/src/filter-populate-stamp/filter-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/filter-subbuild/filter-populate-prefix/src/filter-populate-stamp/filter-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/filter-subbuild/filter-populate-prefix/src/filter-populate-stamp/filter-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/filter-subbuild/filter-populate-prefix/src/filter-populate-stamp/filter-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"filter-populate"
+		],
+		"name" : "filter-populate"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/checksum-subbuild/CMakeFiles/checksum-populate"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/checksum-subbuild/CMakeFiles/checksum-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/checksum-subbuild/CMakeFiles/checksum-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/checksum-subbuild/checksum-populate-prefix/src/checksum-populate-stamp/checksum-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/checksum-subbuild/checksum-populate-prefix/src/checksum-populate-stamp/checksum-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/checksum-subbuild/checksum-populate-prefix/src/checksum-populate-stamp/checksum-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/checksum-subbuild/checksum-populate-prefix/src/checksum-populate-stamp/checksum-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/checksum-subbuild/checksum-populate-prefix/src/checksum-populate-stamp/checksum-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/checksum-subbuild/checksum-populate-prefix/src/checksum-populate-stamp/checksum-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/checksum-subbuild/checksum-populate-prefix/src/checksum-populate-stamp/checksum-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/users/zchen/Projects/DroneSTI/Mini/flight_code/build/_deps/checksum-subbuild/checksum-populate-prefix/src/checksum-populate-stamp/checksum-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"checksum-populate"
+		],
+		"name" : "checksum-populate"
+	}
+}
